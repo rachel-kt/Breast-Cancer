@@ -28,5 +28,4 @@ for(sra_id in sra_id_list[10])
 }
 
 system("macs2 callpeak -t SRR3159913.bam -c ./../SRR3159917/SRR3159917.bam --format=BAM --name=SRR3159913 -g hs")
-system()
-system("macs2 callpeak -t SRR3159913.bam -c ./../SRR3159917/SRR3159917.bam --format=BAM --name=SRR3159913 -g hs")
+
